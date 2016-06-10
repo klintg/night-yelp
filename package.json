@@ -1,0 +1,26 @@
+{
+  "name": "night-yelp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "klint",
+  "license": "MIT",
+  "dependencies": {
+    "browserify": "^13.0.1",
+    "express": "^4.13.4",
+    "flux": "^2.1.1",
+    "gulp": "^3.9.1",
+    "lodash": "^4.13.1",
+    "oauth-signature": "^1.3.1",
+    "object-assign": "^4.1.0",
+    "querystring": "^0.2.0",
+    "react": "^15.0.2",
+    "react-dom": "^15.0.2",
+    "reactify": "^1.1.1",
+    "request": "^2.72.0",
+    "vinyl-source-stream": "^1.1.0"
+  }
+}
