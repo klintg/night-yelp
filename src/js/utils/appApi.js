@@ -46,7 +46,6 @@ module.exports = {
 
     console.log(apiURL)
 
-
     request(apiURL, function(error, data) {
       if(error) {
         console.log(error)
@@ -59,5 +58,7 @@ module.exports = {
           AppActions.receiveBusinessResults(businesses)
       }
     });
+
+
   }
 }
