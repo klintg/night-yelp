@@ -1,5 +1,5 @@
 ## Night-Yelp
-
+[![CodeFactor](https://www.codefactor.io/repository/github/klintg/night-yelp/badge)](https://www.codefactor.io/repository/github/klintg/night-yelp)
 
 Using the [yelp-api](https://www.yelp.com/developers/api_console) To Locate Businesses.
 
